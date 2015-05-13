@@ -1,0 +1,16 @@
+{
+    "name": "koodiph/icmeter",
+    "description": "IC Meter API client implementation - PHP SDK",
+    "authors": [
+        {
+            "name": "Dranzd Viper",
+            "email": "dranzd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "ICMeter\\API\\PHP\\": "src"
+        }
+    }
+}
